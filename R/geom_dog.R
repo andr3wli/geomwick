@@ -3,7 +3,7 @@
 #' @param data df that contains relevant info: the path and filename of the PNG image and size of image to be drawn to legend
 #' @param size size of key realtive to overall plot used to scale the size of the image within the legend
 #'
-draw_key_wick <- function(data, size) {
+draw_key_wick <- function(data, params, size) {
 
   im <- png::readPNG(data$image_filename)
 

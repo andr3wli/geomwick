@@ -4,11 +4,11 @@
 \alias{draw_key_wick}
 \title{creates the legend for the custom ggplot}
 \usage{
-draw_key_wick(data, size)
+draw_key_wick(data, params, size)
 
-draw_key_wick(data, size)
+draw_key_wick(data, params, size)
 
-draw_key_wick(data, size)
+draw_key_wick(data, params, size)
 }
 \arguments{
 \item{data}{df that contains relevant info: the path and filename of the PNG image and size of image to be drawn to legend}

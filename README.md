@@ -3,13 +3,15 @@
 
 # geomwick <img src="man/figures/hex-Geom-Wick.png" align="right" height=230/>
 
-“I heard you struck my son. May I ask why?”
+*“I heard you struck my son. May I ask why?”*
 
-“Because he stole John Wick’s care, sir. And uh, he killed his dog.”
+*“Because he stole John Wick’s care, sir. And uh, he killed his dog.”*
 
-“**Oh.**”
+***“Oh.”***
 
 <https://www.youtube.com/watch?v=r76WZ5gFWzY>
+
+## About
 
 `ggplot2` provides more then 40 geometric objects (geoms) but these
 don’t cover all the possible plots one can make. Many developers have

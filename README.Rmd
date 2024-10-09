@@ -15,13 +15,15 @@ knitr::opts_chunk$set(
 
 # geomwick <img src="man/figures/hex-Geom-Wick.png" align="right" height=230/>
 
-"I heard you struck my son. May I ask why?"
+*"I heard you struck my son. May I ask why?"*
 
-"Because he stole John Wick's care, sir. And uh, he killed his dog."
+*"Because he stole John Wick's care, sir. And uh, he killed his dog."*
 
-"**Oh.**"
+***"Oh."***
 
 https://www.youtube.com/watch?v=r76WZ5gFWzY
+
+## About
 
 `ggplot2` provides more then 40 geometric objects (geoms) but these don't cover all the possible plots one can make. Many developers have created extension packages (https://exts.ggplot2.tidyverse.org/gallery/), such as `ggridges` for ridgeline plots for visualizing density of numerical variable for different levels of a categorical variable, or `ggtext` for improved text rendering support in plots. But nothing was available to create a John Wick graph. As such this new geometric object based on John Wick was created: Geom Wick. Instead of using `geom_point` or `geom_line` consider using one of the functions in Geom Wick: `geom_wick`, `geom_dog`, or `geom_car`.
 
