@@ -11,9 +11,11 @@ draw_key_wick(data, params, size)
 draw_key_wick(data, params, size)
 }
 \arguments{
-\item{data}{df that contains relevant info: the path and filename of the PNG image and size of image to be drawn to legend}
+\item{data}{df that contains relevant info: the path and file name of the PNG image and size of image to be drawn to legend}
 
-\item{size}{size of key realtive to overall plot used to scale the size of the image within the legend}
+\item{params}{placeholder for additional parameters}
+
+\item{size}{size of key relative to overall plot used to scale the size of the image within the legend}
 }
 \description{
 creates the legend for the custom ggplot

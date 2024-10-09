@@ -1,7 +1,8 @@
 #' creates the legend for the custom ggplot
 #'
-#' @param data df that contains relevant info: the path and filename of the PNG image and size of image to be drawn to legend
-#' @param size size of key realtive to overall plot used to scale the size of the image within the legend
+#' @param data df that contains relevant info: the path and file name of the PNG image and size of image to be drawn to legend
+#' @param params placeholder for additional parameters
+#' @param size size of key relative to overall plot used to scale the size of the image within the legend
 #'
 draw_key_wick <- function(data, params, size) {
 
@@ -22,7 +23,7 @@ draw_key_wick <- function(data, params, size) {
 #' @param data what data set to use
 #' @param stat statistical transformation default is identity aka no transformation
 #' @param position position for overlapping elements set to default
-#' @param ...
+#' @param ... for additional arguments or aes mappings such as alpha, fill, shape, size, etc
 #' @param na.rm whether to remove NA values set to the default false
 #' @param show.legend include or not the legend
 #' @param inherit.aes set to true to inherit aesthetics from the global settings

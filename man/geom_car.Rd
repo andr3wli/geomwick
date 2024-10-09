@@ -24,6 +24,8 @@ geom_car(
 
 \item{position}{position for overlapping elements set to default}
 
+\item{...}{for additional arguments or aes mappings such as alpha, fill, shape, size, etc}
+
 \item{na.rm}{whether to remove NA values set to the default false}
 
 \item{show.legend}{include or not the legend}
