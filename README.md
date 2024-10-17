@@ -5,7 +5,7 @@
 
 *“I heard you struck my son. May I ask why?”*
 
-*“Because he stole John Wick’s care, sir. And uh, he killed his dog.”*
+*“Because he stole John Wick’s car, sir. And uh, he killed his dog.”*
 
 ***“Oh.”***
 
